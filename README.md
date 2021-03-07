@@ -13,6 +13,5 @@ pip install numpy easyocr opencv-python xlsxwriter
 ```
 jupyter notebook
 ```
-This will automatically open browser window locally
-2. Open in browser iPython Notebook: *Reciept_scanner_application.ipynb*
-3. Execute all cells, Sample receipt jpeg  as well as final result excel is given. 
+2. Above command will automatically open browser window, Open in browser iPython Notebook: *Reciept_scanner_application.ipynb*
+3. Execute all cells, Sample receipt jpeg  as well as final result excel is included in repo. 
